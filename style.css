@@ -1,0 +1,46 @@
+
+.part1 {
+    width: 95%;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: lightslategrey;
+    
+
+}
+
+.part2 {
+    width: 95%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    
+    background-color: lightslategray;
+    
+    margin-top: 60px;
+    border-radius: 20px;
+    
+}
+
+.inner {  
+    
+    width: 95%;
+    background-color: lightslategray;
+    border-radius: 20px;
+    height: 400px;
+   
+  }
+  
+.outer {
+    margin-top: 70px;
+    
+    width:100%;
+    display: flex;
+    justify-content: center;
+   
+}
+h1 {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+
+
